@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: mishal.jhunt@gmail.com
+- 📫 How to reach me: mishal.jhunt@gmail.com || https://www.linkedin.com/in/mishal-ahmed-564185135/
 
